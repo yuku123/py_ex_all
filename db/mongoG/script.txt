@@ -1,0 +1,6 @@
+//一个key的搜索
+db.testForSearch.find({"search_key":/Kobe/})
+//多个 key 的联合
+db.testForSearch.find({"search_key":{$in:[/Kobe/,/Running/,/Grey/]}})
+//建立index
+db.testForSearch.createIndex( { "search_key": 1 } )
