@@ -1,9 +1,6 @@
 import sys
 from PyQt5.QtWidgets import QApplication, QWidget
 
-import sys
-from PyQt5.QtWidgets import QApplication, QWidget
-
 app = QApplication(sys.argv)
 window = QWidget()
 window.resize(500, 500)
