@@ -9,7 +9,7 @@ import urllib.error
 
 url = "http://www.baidu.com"
 ## 增加post请求体
-postdata = urllib.parse.urlencode({"username":"zifang","password":"test"}).encode('utf-8')
+postdata = urllib.parse.urlencode({"username":"zifang","password":"learn"}).encode('utf-8')
 req = urllib.request.Request(url,postdata)
 
 ## 增加header

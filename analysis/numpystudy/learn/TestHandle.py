@@ -2,7 +2,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-arr=np.loadtxt("../test.csv",delimiter='\t',dtype='string_')
+arr=np.loadtxt("../learn.csv",delimiter='\t',dtype='string_')
 print(str(arr))
 
 arr_distinct=np.unique(arr)

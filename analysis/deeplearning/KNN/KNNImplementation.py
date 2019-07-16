@@ -55,7 +55,7 @@ def getResponse(neighbors):
     return sortedVotes[0][0]
 
 
-# get the truth Accuracy using test-data
+# get the truth Accuracy using learn-data
 def getAccuracy(testSet, predictions):
     correct = 0
     for x in range(len(testSet)):
