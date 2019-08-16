@@ -1,8 +1,8 @@
 import urllib.request
 import urllib.parse
 import urllib.error
-from bs4 import BeautifulSoup
 
+from bs4 import BeautifulSoup
 
 
 def crawler_from_page(url_part):
