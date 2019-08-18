@@ -1,8 +1,10 @@
 # --utf-8--
-import  pandas as pd
+import pandas as pd
 from pandas import Series, DataFrame
 import numpy as np
+import matplotlib.pyplot as plt
 
+data = pd.read_csv('/Users/zifang/workplace/pycharm_workplace/py_ex_all/_data/StudentsPerformance.csv')
 
-data = Series(np.random.randn(10), index=[['a', 'a', 'a', 'b', 'b', 'b', 'c', 'c', 'd', 'd'],
-                                          [1, 2, 3, 1, 2, 3, 1, 2, 2, 3]])
+graph1=data.groupby(['test preparation course']).size()
+
