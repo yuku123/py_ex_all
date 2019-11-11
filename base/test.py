@@ -3,8 +3,8 @@
 ##python 基础
 
 ##使用的field
-name = ' AbBb ac Dd ';
-name = ' aBbB bc Dh ';
+name = ' AbBb ac Dd '
+name = ' aBbB bc Dh '
 age = 10
 bicycles = ['a', 'g', 'c']
 
@@ -149,5 +149,4 @@ class Son(Dog):
 son = Son()
 son.a()
 son.sit()
-print("\n-------------------")
 print("\n-------------------")

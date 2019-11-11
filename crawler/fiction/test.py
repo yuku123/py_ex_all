@@ -1,7 +1,7 @@
 import urllib.request
 import urllib.parse
 import urllib.error
-from bs4 import  BeautifulSoup
+from bs4 import BeautifulSoup
 
 category_list = ['http://www.biquge.com.tw/xuanhuan/',
                  'http://www.biquge.com.tw/xiuzhen/',

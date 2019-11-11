@@ -2,10 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23a601fe-211f-42eb-b338-5708030230db" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_data/juejin_8_1.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/py_ex_all.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/py_ex_all.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/analysis/pandasLeaning/hierachical_indexing.py" beforeDir="false" afterPath="$PROJECT_DIR$/analysis/pandasLeaning/hierachical_indexing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis/matlib/dataProducer/functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis/matlib/mpl_squares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis/matlib/rw_visual.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis/matlib/sctter_squares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/classs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/inportTest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/URLLIB/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/精通python网络爬虫/proxy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/fate_go/down.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/fiction/URLProducer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/fiction/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/quantized_ransaction/aa.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/fiction/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/fiction/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/mongoG/DealWithSampleTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/db/mongo/DealWithSampleTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/mongoG/MongoDemoForSearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/db/mongo/MongoDemoForSearch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/mongoG/MongoGetCategory.py" beforeDir="false" afterPath="$PROJECT_DIR$/db/mongo/MongoGetCategory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/mongoG/MongoTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/db/mongo/MongoTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/mongoG/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/quantized_ransaction/juejin_8_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/mongoG/mongodataimport.py" beforeDir="false" afterPath="$PROJECT_DIR$/db/mongo/mongodataimport.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/mongoG/res.csv" beforeDir="false" afterPath="$PROJECT_DIR$/db/mongo/res.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/mongoG/sampleList.txt" beforeDir="false" afterPath="$PROJECT_DIR$/db/mongo/sampleList.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/mongoG/script.txt" beforeDir="false" afterPath="$PROJECT_DIR$/db/mongo/script.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/mongoG/write_data_category.txt" beforeDir="false" afterPath="$PROJECT_DIR$/db/mongo/write_data_category.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testForcheck/random_walk/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testForcheck/random_walk/b/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testForcheck/random_walk/b/a.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testForcheck/tt/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testForcheck/tt/mpl_squares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testForcheck/tt/rw_visual.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testForcheck/tt/sctter_squares.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,17 +86,18 @@
     <property name="settings.editor.selected.configurable" value="PyScientificConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/crawler/精通python网络爬虫" />
+      <recent name="$PROJECT_DIR$/analysis/pandasLeaning" />
+      <recent name="$PROJECT_DIR$/analysis" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_data" />
       <recent name="$PROJECT_DIR$/project/automation" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/game" />
       <recent name="$PROJECT_DIR$/qt5" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/analysis/pandasLeaning" />
-      <recent name="$PROJECT_DIR$/analysis" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -82,8 +112,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.hierachical_indexing">
-    <configuration name="PandasStudy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.alien_invasion">
+    <configuration name="Client" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py_ex_all" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,12 +121,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/analysis/numpystudy/learn" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project/automation/components" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/analysis/numpystudy/learn/PandasStudy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/automation/components/Client.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TestHandle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="alien_invasion" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py_ex_all" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,12 +143,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/analysis/numpystudy/learn" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/game" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/analysis/numpystudy/learn/TestHandle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/game/alien_invasion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +157,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+    <configuration name="juejin_8_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py_ex_all" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,21 +165,21 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/quantized_ransaction" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/quantized_ransaction/juejin_8_1.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="down" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py_ex_all" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,21 +187,21 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crawler/fate_go" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project/automation/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawler/fate_go/down.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/automation/test/test.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hierachical_indexing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py_ex_all" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -179,36 +209,14 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/analysis/pandasLeaning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/qt5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/analysis/pandasLeaning/hierachical_indexing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qt5/test.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="produce_url" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="py_ex_all" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crawler/fate_go" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawler/fate_go/produce_url.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -216,19 +224,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.down" />
-      <item itemvalue="Python.produce_url" />
-      <item itemvalue="Python.PandasStudy" />
-      <item itemvalue="Python.TestHandle" />
-      <item itemvalue="Python.hierachical_indexing" />
+      <item itemvalue="Python.juejin_8_1" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.test (3)" />
+      <item itemvalue="Python.Client" />
+      <item itemvalue="Python.alien_invasion" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.hierachical_indexing" />
-        <item itemvalue="Python.down" />
-        <item itemvalue="Python.produce_url" />
-        <item itemvalue="Python.TestHandle" />
-        <item itemvalue="Python.PandasStudy" />
+        <item itemvalue="Python.alien_invasion" />
+        <item itemvalue="Python.Client" />
+        <item itemvalue="Python.test (3)" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.juejin_8_1" />
       </list>
     </recent_temporary>
   </component>
@@ -259,6 +267,12 @@
       <workItem from="1565588548476" duration="3664000" />
       <workItem from="1565842168819" duration="2287000" />
       <workItem from="1566047108619" duration="2185000" />
+      <workItem from="1566141173277" duration="249000" />
+      <workItem from="1570351401821" duration="2158000" />
+      <workItem from="1572703957908" duration="6185000" />
+      <workItem from="1572752703529" duration="322000" />
+      <workItem from="1572808567262" duration="92000" />
+      <workItem from="1573381256415" duration="2544000" />
     </task>
     <servers />
   </component>
@@ -282,9 +296,20 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/py_ex_all$mpl_squares.coverage" NAME="mpl_squares Coverage Results" MODIFIED="1572707170388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/analysis/matlib" />
+    <SUITE FILE_PATH="coverage/py_ex_all$test.coverage" NAME="test Coverage Results" MODIFIED="1573403056361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/qt5" />
+    <SUITE FILE_PATH="coverage/py_ex_all$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1572707651554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base" />
+    <SUITE FILE_PATH="coverage/py_ex_all$test__3_.coverage" NAME="test (3) Coverage Results" MODIFIED="1573403086065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project/automation/test" />
+    <SUITE FILE_PATH="coverage/py_ex_all$PandasStudy.coverage" NAME="PandasStudy Coverage Results" MODIFIED="1565844506513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/analysis/numpystudy/learn" />
+    <SUITE FILE_PATH="coverage/py_ex_all$juejin_8_1.coverage" NAME="juejin_8_1 Coverage Results" MODIFIED="1573381408210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/quantized_ransaction" />
     <SUITE FILE_PATH="coverage/py_ex_all$base.coverage" NAME="base Coverage Results" MODIFIED="1565844490976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/analysis/numpystudy/learn" />
+    <SUITE FILE_PATH="coverage/py_ex_all$Client.coverage" NAME="Client Coverage Results" MODIFIED="1573403098625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project/automation/components" />
     <SUITE FILE_PATH="coverage/py_ex_all$TestHandle.coverage" NAME="TestHandle Coverage Results" MODIFIED="1565844513151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/analysis/numpystudy/learn" />
     <SUITE FILE_PATH="coverage/py_ex_all$hierachical_indexing.coverage" NAME="hierachical_indexing Coverage Results" MODIFIED="1566047415090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/analysis/pandasLeaning" />
-    <SUITE FILE_PATH="coverage/py_ex_all$PandasStudy.coverage" NAME="PandasStudy Coverage Results" MODIFIED="1565844506513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/analysis/numpystudy/learn" />
+    <SUITE FILE_PATH="coverage/py_ex_all$rw_visual.coverage" NAME="rw_visual Coverage Results" MODIFIED="1572705145671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testForcheck/tt" />
+    <SUITE FILE_PATH="coverage/py_ex_all$aa.coverage" NAME="aa Coverage Results" MODIFIED="1572708592134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/quantized_ransaction" />
+    <SUITE FILE_PATH="coverage/py_ex_all$sctter_squares.coverage" NAME="sctter_squares Coverage Results" MODIFIED="1572705193217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testForcheck/tt" />
+    <SUITE FILE_PATH="coverage/py_ex_all$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1572707252426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawler/URLLIB" />
+    <SUITE FILE_PATH="coverage/py_ex_all$alien_invasion.coverage" NAME="alien_invasion Coverage Results" MODIFIED="1573403169211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/game" />
   </component>
 </project>
