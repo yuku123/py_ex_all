@@ -2,16 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23a601fe-211f-42eb-b338-5708030230db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/analysis/deeplearning/logistic_regression_2/data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/analysis/deeplearning/logistic_regression_2/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/voice/aa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/voice/create.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/voice/liangzhilaohu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/voice/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/voice/transform.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/py_ex_all.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/py_ex_all.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -276,7 +266,7 @@
       <workItem from="1573625107081" duration="2953000" />
       <workItem from="1574086890360" duration="1245000" />
       <workItem from="1574328956439" duration="898000" />
-      <workItem from="1574329879454" duration="1842000" />
+      <workItem from="1574329879454" duration="2692000" />
     </task>
     <servers />
   </component>
