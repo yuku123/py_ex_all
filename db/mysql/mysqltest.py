@@ -3,7 +3,7 @@
 import pymysql
 
 # 打开数据库连接（ip/数据库用户名/登录密码/数据库名,编码格式）
-db = pymysql.connect("192.168.1.103", "piday", "pidayOffice", "boss", charset="utf8")
+db = pymysql.connect("192.168.1.103", "*", "*", "boss", charset="utf8")
 # 使用 cursor() 方法创建一个游标对象 cursor
 cursor = db.cursor()
 
