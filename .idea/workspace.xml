@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23a601fe-211f-42eb-b338-5708030230db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/mysql/mysqltest.py" beforeDir="false" afterPath="$PROJECT_DIR$/db/mysql/mysqltest.py" afterDir="false" />
-    </list>
+    <list default="true" id="23a601fe-211f-42eb-b338-5708030230db" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -277,6 +273,7 @@
       <workItem from="1580717210124" duration="2664000" />
       <workItem from="1581055016303" duration="4606000" />
       <workItem from="1588903213024" duration="748000" />
+      <workItem from="1596605852102" duration="430000" />
     </task>
     <servers />
   </component>
