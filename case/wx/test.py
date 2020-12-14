@@ -2,7 +2,9 @@ from threading import Timer
 from wxpy import *
 import requests
 
-bot = Bot()#连接微信,会出现一个登陆微信的二维码
+#连接微信,会出现一个登陆微信的二维码
+bot = Bot()
+
 def get_news():
     '''获取金山词霸每日一句'''
     url = 'http://open.iciba.com/dsapi'
@@ -13,7 +15,7 @@ def get_news():
 def send_news():
     try:
         contents = get_news()
-        my_friend =bot.friends().search(u'小鱼儿')[0]#这里是你微信好友的昵称
+        my_friend = bot.friends().search(u'小鱼儿')[0]#这里是你微信好友的昵称
         my_friend.send(contents[0])
         my_friend.send(contents[1])
         my_friend.send(u'来自自动回复')

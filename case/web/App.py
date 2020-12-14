@@ -5,7 +5,6 @@ from case.web.service import test1fromService
 
 app = Flask(__name__)
 
-
 @app.route("/health")
 def health():
     result = {'status': 'UP'}
@@ -20,7 +19,6 @@ def getUser():
 '''
 get的多参数测试
 '''
-
 
 @app.route("/a")
 def test1():
