@@ -1,7 +1,6 @@
 # coding=utf-8
 
 import threading
-import time
 import urllib.request
 import urllib.parse
 import urllib.error

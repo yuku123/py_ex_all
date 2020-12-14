@@ -1,1 +1,0 @@
-# logitic_regression

@@ -24,7 +24,7 @@ print("转换类型：" + name + str(age))
 print("打印列表:" + str(bicycles))
 print("得到列表元素，通过下标获取：" + bicycles[2])
 # 修改列表采取替换的方式
-bicycles[0] = '1';
+bicycles[0] = '1'
 print("修改之后的列表为：" + str(bicycles))
 # 增加元素的方式
 bicycles.append("f")
@@ -106,7 +106,7 @@ print("修改了键值对之后的字典：" + str(value))
 del value["add"]
 print("删除键值对之后：" + str(value))
 print("\n--------遍历字典-----------")
-for ke,valu in value.items():
+for ke, valu in value.items():
     print("key:" + str(ke))
     print("valu:" + str(valu))
 
@@ -118,20 +118,24 @@ for value in value.values():
 
 print("\n---------用户输入以及while循环----------")
 # 吃掉用户的一个输入，并将这个输入吃掉
-#massage = input("yourname")
-#print(massage)
+# massage = input("yourname")
+# print(massage)
 
 print("\n---------函数定义----------")
+
 
 def f():
     print("这里是f()函数的地方，和一般的java方法一致")
 
+
 def f_yuan(*a):
     print('这里输出打包好了的元组信息：' + str(a))
+
 
 f_yuan('a', 'b', 'c')
 
 print("\n---------类----------")
+
 
 class Dog:
     def __init__(self):
@@ -141,11 +145,15 @@ class Dog:
     def sit(self):
         print("i'm sitting")
 
+
 class Son(Dog):
     def __init__(self):
         super().__init__()
+
     def a(self):
         print("wo ai a")
+
+
 son = Son()
 son.a()
 son.sit()

@@ -24,7 +24,7 @@ with open("learn.txt",'a') as a:
 print("-----------异常-----------")
 try:
     print("")
-    #print(1/0)
+    print(1/0)
 except ZeroDivisionError:
     print("aaa")
 
