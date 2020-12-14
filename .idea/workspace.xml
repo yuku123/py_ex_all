@@ -2,17 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23a601fe-211f-42eb-b338-5708030230db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/crawler/kanno/downloader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/konachar/aaa.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/konachar/konachar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/konachar/log.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/konachar/logtest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/konachar/nohup.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pdf/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pdf/transform.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/py_ex_all.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/py_ex_all.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tool/aa.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/juejin_8_1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/_data/juejin_8_1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis/deeplearning/Dtree/AllElectronics.csv" beforeDir="false" afterPath="$PROJECT_DIR$/_data/AllElectronics.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis/deeplearning/KNN/iris.data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_data/iris.data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis/deeplearning/logistic_regression_2/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/_data/data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis/deeplearning/logitic_regression/logisticData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_data/logisticData.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis/deeplearning/logitic_regression/testSet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_data/testSet.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis/numpystudy/learn/PandasStudy.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/numpy/PandasStudy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis/numpystudy/learn/TestHandle.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/numpy/TestHandle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis/numpystudy/learn/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/numpy/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis/pandasLeaning/hierachical_indexing.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/pandas/hierachical_indexing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/fileTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/base/fileTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/base/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/case/base/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/pdf/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/transform.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/pdf/transform.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qt5/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/qt5/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quantized_ransaction/aa.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/pandas/aa.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quantized_ransaction/juejin_8_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/pandas/juejin_8_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/book.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/web/book.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/service.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/web/service.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/t.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/web/t.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wx/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/wx/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +51,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Unit Test" />
         <option value="Python Script" />
       </list>
     </option>
@@ -62,22 +77,22 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/analysis/tensorflow_learning/demo/L1" />
-      <recent name="$PROJECT_DIR$/analysis/tensorflow_learning/demo" />
-      <recent name="$PROJECT_DIR$/crawler/精通python网络爬虫" />
-      <recent name="$PROJECT_DIR$/analysis/pandasLeaning" />
-      <recent name="$PROJECT_DIR$/analysis" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/rpc/thrift" />
       <recent name="$PROJECT_DIR$/analysis/tensorflow_learning/task" />
       <recent name="$PROJECT_DIR$/analysis/tensorflow_learning/demo" />
       <recent name="$PROJECT_DIR$/analysis/tensorflow_learning/demo/L3" />
       <recent name="$PROJECT_DIR$/analysis/tensorflow_learning/demo/L2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/case/pandas" />
+      <recent name="$PROJECT_DIR$/case" />
+      <recent name="$PROJECT_DIR$/" />
+      <recent name="$PROJECT_DIR$/case/qt5" />
+      <recent name="$PROJECT_DIR$/case/base" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -92,11 +107,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.transform">
+  <component name="RunManager" selected="Python tests.Unittests for aa.MyTestCase.test_something">
     <configuration name="downloader" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py_ex_all" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crawler/kanno" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -156,28 +174,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="t" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="py_ex_all" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web/t.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="transform" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py_ex_all" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -200,20 +196,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests for aa.MyTestCase.test_something" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="py_ex_all" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tool" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;aa.MyTestCase.test_something&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.t" />
       <item itemvalue="Python.downloader" />
       <item itemvalue="Python.konachar" />
       <item itemvalue="Python.logtest" />
       <item itemvalue="Python.transform" />
+      <item itemvalue="Python tests.Unittests for aa.MyTestCase.test_something" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests for aa.MyTestCase.test_something" />
         <item itemvalue="Python.transform" />
         <item itemvalue="Python.konachar" />
         <item itemvalue="Python.logtest" />
         <item itemvalue="Python.downloader" />
-        <item itemvalue="Python.t" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +274,8 @@
       <workItem from="1588903213024" duration="748000" />
       <workItem from="1596605852102" duration="430000" />
       <workItem from="1596606329120" duration="78000" />
-      <workItem from="1599456052174" duration="13988000" />
+      <workItem from="1599456052174" duration="14347000" />
+      <workItem from="1607916465464" duration="680000" />
     </task>
     <servers />
   </component>
@@ -315,7 +327,7 @@
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/pdf/transform.py</url>
+          <url>file://$PROJECT_DIR$/case/pdf/transform.py</url>
           <line>6</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
@@ -344,6 +356,7 @@
     <SUITE FILE_PATH="coverage/py_ex_all$Client.coverage" NAME="Client Coverage Results" MODIFIED="1573403098625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project/automation/components" />
     <SUITE FILE_PATH="coverage/py_ex_all$TestHandle.coverage" NAME="TestHandle Coverage Results" MODIFIED="1565844513151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/analysis/numpystudy/learn" />
     <SUITE FILE_PATH="coverage/py_ex_all$matrix.coverage" NAME="matrix Coverage Results" MODIFIED="1574389285387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/analysis/matrix" />
+    <SUITE FILE_PATH="coverage/py_ex_all$Unittests_for_aa_MyTestCase_test_something.coverage" NAME="Unittests for aa.MyTestCase.test_something Coverage Results" MODIFIED="1607916645549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tool" />
     <SUITE FILE_PATH="coverage/py_ex_all$downloader.coverage" NAME="downloader Coverage Results" MODIFIED="1599461571367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawler/kanno" />
     <SUITE FILE_PATH="coverage/py_ex_all$hierachical_indexing.coverage" NAME="hierachical_indexing Coverage Results" MODIFIED="1566047415090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/analysis/pandasLeaning" />
     <SUITE FILE_PATH="coverage/py_ex_all$rw_visual.coverage" NAME="rw_visual Coverage Results" MODIFIED="1572705145671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testForcheck/tt" />

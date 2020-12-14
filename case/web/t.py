@@ -1,7 +1,7 @@
 import json
 from flask import Flask, Response, request
 
-from web.service import test1fromService
+from case.web.service import test1fromService
 
 app = Flask(__name__)
 
@@ -16,7 +16,6 @@ def health():
 def getUser():
     result = {'username': 'python', 'password': 'python'}
     return Response(json.dumps(result), mimetype='application/json')
-
 
 '''
 get的多参数测试
