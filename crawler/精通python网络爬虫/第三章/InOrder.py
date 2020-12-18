@@ -3,7 +3,6 @@ import urllib.parse
 import urllib.error
 
 
-
 ## 转码
 ##url = urllib.request.quote("http://www.baidu.com")
 
