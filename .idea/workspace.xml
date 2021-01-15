@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23a601fe-211f-42eb-b338-5708030230db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/case/crawler/BaseRequest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/matplotlib/InvertAxes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/pandas/handle/dataHandle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawler/精通python网络爬虫/第三章/InOrder.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/精通python网络爬虫/第三章/InOrder.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +84,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.a">
+  <component name="RunManager" selected="Python.dataHandle">
     <configuration name="a" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py_ex_all" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,6 +121,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/case/pandas/aa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dataHandle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="py_ex_all" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case/pandas/handle" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/case/pandas/handle/dataHandle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,42 +195,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="py_ex_all" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/analysis/sklearning" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/analysis/sklearning/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.test" />
       <item itemvalue="Python.aa" />
       <item itemvalue="Python.hierachical_indexing" />
       <item itemvalue="Python.juejin_8_1" />
       <item itemvalue="Python.a" />
+      <item itemvalue="Python.dataHandle" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.dataHandle" />
         <item itemvalue="Python.a" />
         <item itemvalue="Python.juejin_8_1" />
         <item itemvalue="Python.hierachical_indexing" />
         <item itemvalue="Python.aa" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -262,7 +260,10 @@
       <workItem from="1596606329120" duration="78000" />
       <workItem from="1599456052174" duration="14347000" />
       <workItem from="1607916465464" duration="2599000" />
-      <workItem from="1607934798874" duration="689000" />
+      <workItem from="1607934798874" duration="835000" />
+      <workItem from="1608463802186" duration="510000" />
+      <workItem from="1608701160803" duration="529000" />
+      <workItem from="1610679776574" duration="10995000" />
     </task>
     <servers />
   </component>
@@ -318,6 +319,11 @@
           <line>6</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/pandas/handle/dataHandle.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -330,6 +336,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/py_ex_all$mpl_squares.coverage" NAME="mpl_squares Coverage Results" MODIFIED="1572707170388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/analysis/matlib" />
+    <SUITE FILE_PATH="coverage/py_ex_all$dataHandle.coverage" NAME="dataHandle Coverage Results" MODIFIED="1610710789253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/pandas/handle" />
     <SUITE FILE_PATH="coverage/py_ex_all$transform.coverage" NAME="transform Coverage Results" MODIFIED="1599581282800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pdf" />
     <SUITE FILE_PATH="coverage/py_ex_all$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1572707651554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base" />
     <SUITE FILE_PATH="coverage/py_ex_all$PandasStudy.coverage" NAME="PandasStudy Coverage Results" MODIFIED="1565844506513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/analysis/numpystudy/learn" />
